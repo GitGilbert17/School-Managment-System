@@ -1,0 +1,8 @@
+C:\Users\yaelg\OneDrive\Escritorio\School-managment-system\Backend\School-Managment-system_Backend\obj\Debug\net10.0\School-Managment-system_Backend.csproj.AssemblyReference.cache
+C:\Users\yaelg\OneDrive\Escritorio\School-managment-system\Backend\School-Managment-system_Backend\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\yaelg\OneDrive\Escritorio\School-managment-system\Backend\School-Managment-system_Backend\obj\Debug\net10.0\School-Managment-system_Backend.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yaelg\OneDrive\Escritorio\School-managment-system\Backend\School-Managment-system_Backend\obj\Debug\net10.0\School-Managment-system_Backend.AssemblyInfoInputs.cache
+C:\Users\yaelg\OneDrive\Escritorio\School-managment-system\Backend\School-Managment-system_Backend\obj\Debug\net10.0\School-Managment-system_Backend.AssemblyInfo.cs
+C:\Users\yaelg\OneDrive\Escritorio\School-managment-system\Backend\School-Managment-system_Backend\obj\Debug\net10.0\School-Managment-system_Backend.csproj.CoreCompileInputs.cache
+C:\Users\yaelg\OneDrive\Escritorio\School-managment-system\Backend\School-Managment-system_Backend\obj\Debug\net10.0\School-Managment-system_Backend.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\yaelg\OneDrive\Escritorio\School-managment-system\Backend\School-Managment-system_Backend\obj\Debug\net10.0\School-Managment-system_Backend.MvcApplicationPartsAssemblyInfo.cache
