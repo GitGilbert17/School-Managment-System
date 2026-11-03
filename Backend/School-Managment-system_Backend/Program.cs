@@ -6,6 +6,8 @@ using School_Managment_system_Backend.Data;
 // configurar los servicios que va a utilizar nuestra API.
 var builder = WebApplication.CreateBuilder(args);
 
+
+
 // 2. Leemos la cadena de conexión ("DefaultConnection") desde el archivo appsettings.json
 // para poder conectarnos a nuestra base de datos SQL Server (EscuelaDB).
 var connectionString = builder.Configuration.GetConnectionString("DefaultConnection");

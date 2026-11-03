@@ -24,7 +24,7 @@ namespace School_Managment_system_Backend.Confgurations
         }
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
-            modelBuilder.ApplyConfigurationsFromAssembly(typeof(EscuelaDbContext).Assembly);
+            modelBuilder.ApplyConfigurationsFromAssembly(typeof(DbContext).Assembly);
         }
     }
 }

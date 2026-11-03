@@ -46,9 +46,9 @@
               "Title": "Estudiante.cs",
               "DocumentMoniker": "C:\\Users\\yaelg\\OneDrive\\Escritorio\\School-managment-system\\Backend\\School-Managment-system_Backend\\Models\\Estudiante.cs",
               "RelativeDocumentMoniker": "Models\\Estudiante.cs",
-              "ToolTip": "C:\\Users\\yaelg\\OneDrive\\Escritorio\\School-managment-system\\Backend\\School-Managment-system_Backend\\Models\\Estudiante.cs",
-              "RelativeToolTip": "Models\\Estudiante.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\yaelg\\OneDrive\\Escritorio\\School-managment-system\\Backend\\School-Managment-system_Backend\\Models\\Estudiante.cs*",
+              "RelativeToolTip": "Models\\Estudiante.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-11-02T01:15:43.33Z",
               "EditorCaption": ""
@@ -74,7 +74,7 @@
               "RelativeDocumentMoniker": "Confgurations\\EstudianteConfiguration.cs",
               "ToolTip": "C:\\Users\\yaelg\\OneDrive\\Escritorio\\School-managment-system\\Backend\\School-Managment-system_Backend\\Confgurations\\EstudianteConfiguration.cs",
               "RelativeToolTip": "Confgurations\\EstudianteConfiguration.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAkAAAAAAAAAA==",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwAEAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-20T19:31:22.534Z",
               "EditorCaption": ""
@@ -89,8 +89,7 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-20T14:59:19.677Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-20T14:59:19.677Z"
             },
             {
               "$type": "Document",
@@ -102,8 +101,7 @@
               "RelativeToolTip": "appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-10-20T14:25:40.017Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-20T14:25:40.017Z"
             }
           ]
         },

@@ -16,6 +16,8 @@
 
         public bool Activo { get; set; } = true; // Indica si el estudiante está activo o no
 
+        public string Grado { get; set; } = string.Empty; // Nombre del grado al que pertenece el estudiante
+
 
     }
 }
