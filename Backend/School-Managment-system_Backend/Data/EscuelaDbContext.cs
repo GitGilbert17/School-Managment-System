@@ -3,7 +3,7 @@ using Microsoft.EntityFrameworkCore;
 
 
 
-namespace School_Managment_system_Backend.DTOs
+namespace School_Managment_system_Backend.Data
 {
     public class EscuelaDbContext : DbContext
     {

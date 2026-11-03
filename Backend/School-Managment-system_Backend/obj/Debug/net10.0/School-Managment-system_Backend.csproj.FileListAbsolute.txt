@@ -6,3 +6,4 @@ C:\Users\yaelg\OneDrive\Escritorio\School-managment-system\Backend\School-Managm
 C:\Users\yaelg\OneDrive\Escritorio\School-managment-system\Backend\School-Managment-system_Backend\obj\Debug\net10.0\School-Managment-system_Backend.csproj.CoreCompileInputs.cache
 C:\Users\yaelg\OneDrive\Escritorio\School-managment-system\Backend\School-Managment-system_Backend\obj\Debug\net10.0\School-Managment-system_Backend.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\yaelg\OneDrive\Escritorio\School-managment-system\Backend\School-Managment-system_Backend\obj\Debug\net10.0\School-Managment-system_Backend.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\yaelg\OneDrive\Escritorio\School-managment-system\Backend\School-Managment-system_Backend\obj\Debug\net10.0\School-Managment-system_Backend.sourcelink.json

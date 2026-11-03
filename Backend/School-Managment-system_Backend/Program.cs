@@ -1,5 +1,6 @@
 using Microsoft.EntityFrameworkCore;
-using School_Managment_system_Backend.DTOs;
+using School_Managment_system_Backend.Data;
+
 
 // 1. Creamos el constructor de la aplicación web (el "builder") que nos permite 
 // configurar los servicios que va a utilizar nuestra API.
