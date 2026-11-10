@@ -3,24 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\yaelg\\OneDrive\\Escritorio\\School-managment-system\\Backend\\School-Managment-system_Backend\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{750C3913-3EC3-05C4-A4F0-8B7284004CF7}|School-Managment-system_Backend.csproj|c:\\users\\yaelg\\onedrive\\escritorio\\school-managment-system\\backend\\school-managment-system_backend\\models\\estudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{750C3913-3EC3-05C4-A4F0-8B7284004CF7}|School-Managment-system_Backend.csproj|solutionrelative:models\\estudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\yaelg\\OneDrive\\Escritorio\\School-managment-system\\Backend\\School-Managment-system_Backend\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{750C3913-3EC3-05C4-A4F0-8B7284004CF7}|School-Managment-system_Backend.csproj|c:\\users\\yaelg\\onedrive\\escritorio\\school-managment-system\\backend\\school-managment-system_backend\\confgurations\\estudianteconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{750C3913-3EC3-05C4-A4F0-8B7284004CF7}|School-Managment-system_Backend.csproj|solutionrelative:confgurations\\estudianteconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\yaelg\\OneDrive\\Escritorio\\School-managment-system\\Backend\\School-Managment-system_Backend\\Data\\EscuelaDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Data\\EscuelaDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{750C3913-3EC3-05C4-A4F0-8B7284004CF7}|School-Managment-system_Backend.csproj|c:\\users\\yaelg\\onedrive\\escritorio\\school-managment-system\\backend\\school-managment-system_backend\\dtos\\escueladbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{750C3913-3EC3-05C4-A4F0-8B7284004CF7}|School-Managment-system_Backend.csproj|solutionrelative:dtos\\escueladbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\yaelg\\OneDrive\\Escritorio\\School-managment-system\\Backend\\School-Managment-system_Backend\\DTOs\\Estudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DTOs\\Estudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{750C3913-3EC3-05C4-A4F0-8B7284004CF7}|School-Managment-system_Backend.csproj|c:\\users\\yaelg\\onedrive\\escritorio\\school-managment-system\\backend\\school-managment-system_backend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{750C3913-3EC3-05C4-A4F0-8B7284004CF7}|School-Managment-system_Backend.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\yaelg\\OneDrive\\Escritorio\\School-managment-system\\Backend\\School-Managment-system_Backend\\Confgurations\\EstudianteConfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Confgurations\\EstudianteConfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{750C3913-3EC3-05C4-A4F0-8B7284004CF7}|School-Managment-system_Backend.csproj|c:\\users\\yaelg\\onedrive\\escritorio\\school-managment-system\\backend\\school-managment-system_backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{750C3913-3EC3-05C4-A4F0-8B7284004CF7}|School-Managment-system_Backend.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\yaelg\\OneDrive\\Escritorio\\School-managment-system\\Backend\\School-Managment-system_Backend\\Confgurations\\DocenteConfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Confgurations\\DocenteConfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\yaelg\\OneDrive\\Escritorio\\School-managment-system\\Backend\\School-Managment-system_Backend\\DTOs\\Docentes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DTOs\\Docentes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\yaelg\\OneDrive\\Escritorio\\School-managment-system\\Backend\\School-Managment-system_Backend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,11 +38,33 @@
       "DocumentGroups": [
         {
           "DockedHeight": 300,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DocenteConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\yaelg\\OneDrive\\Escritorio\\School-managment-system\\Backend\\School-Managment-system_Backend\\Confgurations\\DocenteConfiguration.cs",
+              "RelativeDocumentMoniker": "Confgurations\\DocenteConfiguration.cs",
+              "ToolTip": "C:\\Users\\yaelg\\OneDrive\\Escritorio\\School-managment-system\\Backend\\School-Managment-system_Backend\\Confgurations\\DocenteConfiguration.cs",
+              "RelativeToolTip": "Confgurations\\DocenteConfiguration.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-03T17:34:02.881Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Estudiante.cs",
+              "DocumentMoniker": "C:\\Users\\yaelg\\OneDrive\\Escritorio\\School-managment-system\\Backend\\School-Managment-system_Backend\\DTOs\\Estudiante.cs",
+              "RelativeDocumentMoniker": "DTOs\\Estudiante.cs",
+              "ToolTip": "C:\\Users\\yaelg\\OneDrive\\Escritorio\\School-managment-system\\Backend\\School-Managment-system_Backend\\DTOs\\Estudiante.cs",
+              "RelativeToolTip": "DTOs\\Estudiante.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-02T01:15:43.33Z"
             },
             {
               "$type": "Bookmark",
@@ -42,64 +72,56 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Estudiante.cs",
-              "DocumentMoniker": "C:\\Users\\yaelg\\OneDrive\\Escritorio\\School-managment-system\\Backend\\School-Managment-system_Backend\\Models\\Estudiante.cs",
-              "RelativeDocumentMoniker": "Models\\Estudiante.cs",
-              "ToolTip": "C:\\Users\\yaelg\\OneDrive\\Escritorio\\School-managment-system\\Backend\\School-Managment-system_Backend\\Models\\Estudiante.cs*",
-              "RelativeToolTip": "Models\\Estudiante.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-02T01:15:43.33Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "EscuelaDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\yaelg\\OneDrive\\Escritorio\\School-managment-system\\Backend\\School-Managment-system_Backend\\DTOs\\EscuelaDbContext.cs",
-              "RelativeDocumentMoniker": "DTOs\\EscuelaDbContext.cs",
-              "ToolTip": "C:\\Users\\yaelg\\OneDrive\\Escritorio\\School-managment-system\\Backend\\School-Managment-system_Backend\\DTOs\\EscuelaDbContext.cs",
-              "RelativeToolTip": "DTOs\\EscuelaDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-20T19:23:19.295Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "EstudianteConfiguration.cs",
               "DocumentMoniker": "C:\\Users\\yaelg\\OneDrive\\Escritorio\\School-managment-system\\Backend\\School-Managment-system_Backend\\Confgurations\\EstudianteConfiguration.cs",
               "RelativeDocumentMoniker": "Confgurations\\EstudianteConfiguration.cs",
               "ToolTip": "C:\\Users\\yaelg\\OneDrive\\Escritorio\\School-managment-system\\Backend\\School-Managment-system_Backend\\Confgurations\\EstudianteConfiguration.cs",
               "RelativeToolTip": "Confgurations\\EstudianteConfiguration.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAAwAEAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-20T19:31:22.534Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-20T19:31:22.534Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
+              "Title": "EscuelaDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\yaelg\\OneDrive\\Escritorio\\School-managment-system\\Backend\\School-Managment-system_Backend\\Data\\EscuelaDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\EscuelaDbContext.cs",
+              "ToolTip": "C:\\Users\\yaelg\\OneDrive\\Escritorio\\School-managment-system\\Backend\\School-Managment-system_Backend\\Data\\EscuelaDbContext.cs",
+              "RelativeToolTip": "Data\\EscuelaDbContext.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-20T19:23:19.295Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\yaelg\\OneDrive\\Escritorio\\School-managment-system\\Backend\\School-Managment-system_Backend\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\yaelg\\OneDrive\\Escritorio\\School-managment-system\\Backend\\School-Managment-system_Backend\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-20T14:59:19.677Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
+              "Title": "Docentes.cs",
+              "DocumentMoniker": "C:\\Users\\yaelg\\OneDrive\\Escritorio\\School-managment-system\\Backend\\School-Managment-system_Backend\\DTOs\\Docentes.cs",
+              "RelativeDocumentMoniker": "DTOs\\Docentes.cs",
+              "ToolTip": "C:\\Users\\yaelg\\OneDrive\\Escritorio\\School-managment-system\\Backend\\School-Managment-system_Backend\\DTOs\\Docentes.cs",
+              "RelativeToolTip": "DTOs\\Docentes.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-03T15:13:08.056Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\yaelg\\OneDrive\\Escritorio\\School-managment-system\\Backend\\School-Managment-system_Backend\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
               "ToolTip": "C:\\Users\\yaelg\\OneDrive\\Escritorio\\School-managment-system\\Backend\\School-Managment-system_Backend\\appsettings.json",
               "RelativeToolTip": "appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2026-10-20T14:25:40.017Z"
             }
@@ -109,6 +131,10 @@
           "DockedHeight": 84,
           "SelectedChildIndex": -1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"

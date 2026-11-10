@@ -118,3 +118,13 @@ GO
 
 );
 
+use EscuelaDB
+
+select * from Estudiantes
+select * from Docentes
+select * from Calificaciones
+select * from Grados
+select * from Periodos
+select * from Materias
+
+
