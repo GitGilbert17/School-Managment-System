@@ -1,23 +1,19 @@
-﻿namespace School_Managment_system_Backend.DTOs
+﻿namespace School_Managment_system_Backend.Models
 {
     public class Estudiante
     {
         public int Id { get; set; }
-        public string Nombre { get; set; } = string.Empty;  
+        public string Nombre { get; set; } = string.Empty;
         public string Apellido { get; set; } = string.Empty;
-        public int GradoId { get; set; } // Clave foránea apunta al grado del estudiante
-        public string cedula { get; set; } = string.Empty;
+        public string? Cedula { get; set; } // Puede ser null según nuestra BD
         public DateTime FechaNacimiento { get; set; }
+        public string? Email { get; set; } // Faltaba el email que diseñamos en SQL
+        public string? Telefono { get; set; }
+        public int GradoId { get; set; }
+        public DateTime FechaInscripcion { get; set; } = DateTime.Now;
+        public bool Activo { get; set; } = true;
 
-        // Se asigna la fecha de hoy por defecto al crear el objeto en C#
-        public DateOnly FechaInscripcion { get; set; } = DateOnly.FromDateTime(DateTime.Now); // Fecha de inscripción del estudiante
-
-        public string Telefono { get; set; } = string.Empty;
-
-        public bool Activo { get; set; } = true; // Indica si el estudiante está activo o no
-
-        public string Grado { get; set; } = string.Empty; // Nombre del grado al que pertenece el estudiante
-
-
+        // Propiedad de navegación de EF Core (para conectar con la tabla Grados)
+        public Grado? Grado { get; set; }
     }
-}
+}   
