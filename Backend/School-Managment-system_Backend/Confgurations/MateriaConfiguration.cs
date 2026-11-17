@@ -39,9 +39,29 @@ namespace School_Managment_system_Backend.Confgurations
             builder.Property(m => m.Creditos)
                    .IsRequired();
 
-            builder.
-                   
+            builder.Property(m => m.DocenteId)
+                   .IsRequired();
 
+            builder.Property(m => m.GradoId)
+                    .IsRequired();
+
+            builder.Property(m => m.Activo)
+                   .IsRequired()
+                   .HasDefaultValue(true);
+
+            // Configuración de la relación con la entidad Docentes
+            builder.HasOne(m => m.Docente)
+                .WithMany()
+                  .HasForeignKey(m => m.DocenteId)
+                  .HasConstraintName("FK_Materias_Docentes")
+                     .OnDelete(DeleteBehavior.Restrict);
+
+            // Relación con Grado (FK_Materias_Grados)
+            builder.HasOne(m => m.Grado)
+                   .WithMany() 
+                   .HasForeignKey(m => m.GradoId)
+                   .HasConstraintName("FK_Materias_Grados")
+                   .OnDelete(DeleteBehavior.Restrict);
         }
     }
 }
