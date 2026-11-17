@@ -18,7 +18,11 @@
 
   <ItemGroup>
     <Folder Include="Controllers\" />
-    <Folder Include="DTOs\" />
+    <Folder Include="DTOs\Docente\" />
+    <Folder Include="DTOs\Calificaciones\" />
+    <Folder Include="DTOs\Grado\" />
+    <Folder Include="DTOs\Materia\" />
+    <Folder Include="DTOs\Periodo\" />
     <Folder Include="Services\" />
   </ItemGroup>
 
