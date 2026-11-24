@@ -75,10 +75,5 @@ public class EstudianteConfiguration : IEntityTypeConfiguration<Estudiante>
                .OnDelete(DeleteBehavior.Restrict); // Evitar borrado en cascada para proteger datos
 
     }
-
-    protected override void OnModelCreating(ModelBuilder modelBuilder)
-    {
-        modelBuilder.ApplyConfigurationsFromAssembly(typeof(DbContext).Assembly);
-    }
 }
     

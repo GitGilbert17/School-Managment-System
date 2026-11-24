@@ -66,9 +66,6 @@ namespace School_Managment_system_Backend.Confgurations
                    .IsRequired()
                    .HasColumnType("bit");
         }
-        protected override void OnModelCreating(ModelBuilder modelBuilder)
-        {
-            modelBuilder.ApplyConfigurationsFromAssembly(typeof(DbContext).Assembly);
-        }
+       
     }
 }
