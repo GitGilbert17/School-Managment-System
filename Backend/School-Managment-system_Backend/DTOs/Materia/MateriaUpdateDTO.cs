@@ -2,5 +2,11 @@
 {
     public class MateriaUpdateDTO
     {
+        public string Nombre { get; set; } = string.Empty;
+        public string CodigoMateria { get; set; } = string.Empty;
+        public int Creditos { get; set; }
+        public int DocenteId { get; set; }
+        public int GradoId { get; set; }
+        public bool Activo { get; set; } = true;
     }
 }
